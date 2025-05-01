@@ -1,0 +1,50 @@
+C:\Users\Usuario\source\repos\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\Usuario\source\repos\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\Usuario\source\repos\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\Usuario\source\repos\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.pdb
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\bin\Debug\MaterialSkin.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\obj\Debug\PryEntid.C74C92AE.Up2Date
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\bin\Debug\MaterialSkin.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\obj\Debug\PryEntid.C74C92AE.Up2Date
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\bin\Debug\MaterialSkin.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.CopyComplete
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\bin\Debug\PryEntidades.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\bin\Debug\MaterialSkin.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.AssemblyReference.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.csproj.CopyComplete
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryEntidades\obj\Debug\PryEntidades.pdb

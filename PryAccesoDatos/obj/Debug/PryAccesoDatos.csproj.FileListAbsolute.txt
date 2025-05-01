@@ -1,0 +1,44 @@
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\bin\Debug\MaterialSkin.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\obj\Debug\PryAcces.5D07ACA0.Up2Date
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\bin\Debug\MaterialSkin.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\obj\Debug\PryAcces.5D07ACA0.Up2Date
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\bin\Debug\MaterialSkin.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CopyComplete
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\bin\Debug\MaterialSkin.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.AssemblyReference.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.csproj.CopyComplete
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryAccesoDatos\obj\Debug\PryAccesoDatos.pdb

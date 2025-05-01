@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{64D3330C-05FB-4147-802D-E839D367A41D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>PryPresentacion</RootNamespace>
+    <AssemblyName>PryPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MaterialSkin, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\MaterialSkin.0.2.1\lib\MaterialSkin.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BD_MediCitasDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BD_MediCitasDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="FrmCitas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmCitas.Designer.cs">
+      <DependentUpon>FrmCitas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmHistorialMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmHistorialMedico.Designer.cs">
+      <DependentUpon>FrmHistorialMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMedico.Designer.cs">
+      <DependentUpon>FrmMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPaciente.Designer.cs">
+      <DependentUpon>FrmPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRegistro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRegistro.Designer.cs">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmUsuario.Designer.cs">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmCitas.resx">
+      <DependentUpon>FrmCitas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmHistorialMedico.resx">
+      <DependentUpon>FrmHistorialMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMedico.resx">
+      <DependentUpon>FrmMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPaciente.resx">
+      <DependentUpon>FrmPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmRegistro.resx">
+      <DependentUpon>FrmRegistro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmUsuario.resx">
+      <DependentUpon>FrmUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="BD_MediCitasDataSet.xsc">
+      <DependentUpon>BD_MediCitasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BD_MediCitasDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BD_MediCitasDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BD_MediCitasDataSet.xss">
+      <DependentUpon>BD_MediCitasDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\free-user-group-icon-296-thumb.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PryEntidades\PryEntidades.csproj">
+      <Project>{ae7e7e00-2579-4654-a887-160063192f3f}</Project>
+      <Name>PryEntidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PryLogicaNegocios\PryLogicaNegocios.csproj">
+      <Project>{43a591cc-fcdd-4cff-80a6-e1b09b9fb130}</Project>
+      <Name>PryLogicaNegocios</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6401519.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Editar.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\paciente.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

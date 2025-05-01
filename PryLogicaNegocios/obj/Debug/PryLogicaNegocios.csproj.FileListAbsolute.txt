@@ -1,0 +1,52 @@
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\bin\Debug\PryLogicaNegocios.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\bin\Debug\PryLogicaNegocios.pdb
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\bin\Debug\MaterialSkin.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\bin\Debug\PryEntidades.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\bin\Debug\PryEntidades.pdb
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogic.B919C5BD.Up2Date
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.dll
+C:\Users\Nicolas\Downloads\HERRAMIENTAS PROGRAMCION III\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\bin\Debug\PryLogicaNegocios.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\bin\Debug\PryLogicaNegocios.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\bin\Debug\MaterialSkin.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\bin\Debug\PryEntidades.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\bin\Debug\PryEntidades.pdb
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogic.B919C5BD.Up2Date
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.dll
+C:\Users\Usuario\Downloads\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\bin\Debug\PryLogicaNegocios.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\bin\Debug\PryLogicaNegocios.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\bin\Debug\MaterialSkin.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\bin\Debug\PryEntidades.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\bin\Debug\PryEntidades.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.CopyComplete
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas (2)\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\bin\Debug\PryLogicaNegocios.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\bin\Debug\PryLogicaNegocios.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\bin\Debug\MaterialSkin.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\bin\Debug\PryEntidades.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\bin\Debug\PryAccesoDatos.dll.config
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\bin\Debug\PryEntidades.pdb
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.AssemblyReference.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.csproj.CopyComplete
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.dll
+C:\Users\pipeo\OneDrive\Escritorio\PryMedCitas\PryMedCitas\PryLogicaNegocios\obj\Debug\PryLogicaNegocios.pdb

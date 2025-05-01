@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AccesoDatos", "AccesoDatos", "{C973F355-FF6E-475B-8038-3645CAA8E652}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Entidades", "Entidades", "{7DD724E1-E8E9-41A0-B308-2FA6AEE142B0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LogicaNegocios", "LogicaNegocios", "{7C7D9693-5352-4880-A7AE-9242048BB746}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentacion", "Presentacion", "{0CC3B904-4A48-422E-BEDB-D61F8AC1BBB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PryAccesoDatos", "PryAccesoDatos\PryAccesoDatos.csproj", "{B90F35FB-FFDC-403B-ACBD-CF055DA5BB41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PryEntidades", "PryEntidades\PryEntidades.csproj", "{AE7E7E00-2579-4654-A887-160063192F3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PryLogicaNegocios", "PryLogicaNegocios\PryLogicaNegocios.csproj", "{43A591CC-FCDD-4CFF-80A6-E1B09B9FB130}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PryPresentacion", "PryPresentacion\PryPresentacion.csproj", "{64D3330C-05FB-4147-802D-E839D367A41D}"
+	ProjectSection(ProjectDependencies) = postProject
+		{43A591CC-FCDD-4CFF-80A6-E1B09B9FB130} = {43A591CC-FCDD-4CFF-80A6-E1B09B9FB130}
+		{AE7E7E00-2579-4654-A887-160063192F3F} = {AE7E7E00-2579-4654-A887-160063192F3F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90F35FB-FFDC-403B-ACBD-CF055DA5BB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90F35FB-FFDC-403B-ACBD-CF055DA5BB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90F35FB-FFDC-403B-ACBD-CF055DA5BB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90F35FB-FFDC-403B-ACBD-CF055DA5BB41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7E7E00-2579-4654-A887-160063192F3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7E7E00-2579-4654-A887-160063192F3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7E7E00-2579-4654-A887-160063192F3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7E7E00-2579-4654-A887-160063192F3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43A591CC-FCDD-4CFF-80A6-E1B09B9FB130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A591CC-FCDD-4CFF-80A6-E1B09B9FB130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A591CC-FCDD-4CFF-80A6-E1B09B9FB130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A591CC-FCDD-4CFF-80A6-E1B09B9FB130}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D3330C-05FB-4147-802D-E839D367A41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D3330C-05FB-4147-802D-E839D367A41D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D3330C-05FB-4147-802D-E839D367A41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D3330C-05FB-4147-802D-E839D367A41D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B90F35FB-FFDC-403B-ACBD-CF055DA5BB41} = {C973F355-FF6E-475B-8038-3645CAA8E652}
+		{AE7E7E00-2579-4654-A887-160063192F3F} = {7DD724E1-E8E9-41A0-B308-2FA6AEE142B0}
+		{43A591CC-FCDD-4CFF-80A6-E1B09B9FB130} = {7C7D9693-5352-4880-A7AE-9242048BB746}
+		{64D3330C-05FB-4147-802D-E839D367A41D} = {0CC3B904-4A48-422E-BEDB-D61F8AC1BBB8}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50558644-1ABE-42B3-94F9-271A4EA84F4D}
+	EndGlobalSection
+EndGlobal
